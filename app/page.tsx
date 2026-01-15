@@ -4,10 +4,10 @@ export default function Home() {
       {/* Godwit's Playground */}
       <header style={{ marginBottom: "3rem" }}>
         <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>
-          Godwit's Playground
+          Godwit's Nest
         </h1>
         <p style={{ fontSize: "1.25rem", color: "#555" }}>
-          A playground for small web apps, experiments, and ideas.
+          A place for small web apps, experiments, and ideas.
         </p>
       </header>
 
