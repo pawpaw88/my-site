@@ -14,21 +14,22 @@ export default function Home() {
       {/* Navigation */}
       <nav style={{ marginBottom: "3rem" }}>
         <ul style={{ display: "flex", gap: "1.5rem", listStyle: "none", padding: 0 }}>
-          <li><a href="/apps">Apps</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/contact">Contact</a></li>
+          {/* <li><a href="/apps">Apps</a></li> */}
+          {/* <li><a href="/about">About</a></li> */}
+          {/* <li><a href="/contact">Contact</a></li> */}
+          <li><a href="/blog">Blog</a></li>
         </ul>
       </nav>
 
       {/* Placeholder apps */}
       <section>
         <h2 style={{ fontSize: "1.75rem", marginBottom: "1rem" }}>
-          Upcoming Apps
+          {/* Upcoming Apps */}
         </h2>
         <ul style={{ lineHeight: "1.8" }}>
-          <li>🧠 Idea Inbox — capture and organize app ideas quickly</li>
-          <li>📊 Tiny Dashboard — experiments with data + visualization</li>
-          <li>🧪 Sandbox — space for quick prototypes</li>
+          {/* <li>🧠 Idea Inbox — capture and organize app ideas quickly</li> */}
+          {/* <li>📊 Tiny Dashboard — experiments with data + visualization</li> */}
+          {/* <li>🧪 Sandbox — space for quick prototypes</li> */}
         </ul>
       </section>
     </main>
